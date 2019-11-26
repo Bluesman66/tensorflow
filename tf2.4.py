@@ -1,6 +1,6 @@
 import tensorflow as tf
 
-m1 = tf.constant([1., 2.])
+m1 = tf.constant([[1., 2.]])
 
 m2 = tf.constant([[1],
                   [2]])
